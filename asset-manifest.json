@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/single-price-grid-component/static/js/main.dec7cc29.chunk.js",
+    "main.js.map": "/single-price-grid-component/static/js/main.dec7cc29.chunk.js.map",
+    "runtime-main.js": "/single-price-grid-component/static/js/runtime-main.705630e2.js",
+    "runtime-main.js.map": "/single-price-grid-component/static/js/runtime-main.705630e2.js.map",
+    "static/js/2.61d6cc42.chunk.js": "/single-price-grid-component/static/js/2.61d6cc42.chunk.js",
+    "static/js/2.61d6cc42.chunk.js.map": "/single-price-grid-component/static/js/2.61d6cc42.chunk.js.map",
+    "index.html": "/single-price-grid-component/index.html",
+    "static/js/2.61d6cc42.chunk.js.LICENSE.txt": "/single-price-grid-component/static/js/2.61d6cc42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.705630e2.js",
+    "static/js/2.61d6cc42.chunk.js",
+    "static/js/main.dec7cc29.chunk.js"
+  ]
+}
