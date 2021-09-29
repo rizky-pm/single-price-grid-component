@@ -24,6 +24,9 @@ Users should be able to:
 
 ### Screenshot
 
+![Desktop](./result_screenshots/desktop-design.png)
+![Mobile](./result_screenshots/mobile-design.png)
+
 ### Links
 
 -   Solution URL: [Github](https://github.com/rizky-pm/single-price-grid-component)

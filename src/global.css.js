@@ -15,8 +15,10 @@ const GlobalStyles = createGlobalStyle`
         font-size: 1rem;
         color: ${(props) => props.theme.colors.cyan};
         background-color: ${(props) => props.theme.colors.lightGray};
-        display: grid;
-        place-items: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
     }
 `;
 

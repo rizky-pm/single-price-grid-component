@@ -5,16 +5,20 @@ const Container = styled.section`
     background-color: ${(props) => props.theme.colors.lighterCyan};
     overflow: hidden;
     color: white;
-    padding: 25px;
+    padding: 1.5625rem;
+
+    @media only screen and (${(props) => props.theme.breakpoints.laptops}) {
+        grid-area: whyus;
+    }
 `;
 
 const Title = styled.h3`
-    margin-bottom: 20px;
+    margin-bottom: 1.25rem;
 `;
 
 const DescriptionText = styled.p`
     line-height: 1.4;
-    font-size: 14px;
+    font-size: 0.875rem;
     opacity: 0.75;
 `;
 
